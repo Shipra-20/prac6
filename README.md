@@ -1,7 +1,7 @@
 # My GitHub Practical
 
 ## Description
-This practical demonstrates the use of .gitignore and README.md files in a Git repository. It covers how to manage ignored files, write a structured README.md, and push changes to GitHub effectively.
+This practical demonstrates the use of .gitignore and README.md files in a Git repository.
 
 ## Installation Steps
 1. Clone the repository using git clone <repository_URL>
