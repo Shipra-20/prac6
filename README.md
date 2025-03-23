@@ -1,6 +1,6 @@
-#My GitHub Practical
+# My GitHub Practical
 
-##Description
+## Description
 This practical demonstrates the use of .gitignore and README.md files in a Git repository. It covers how to manage ignored files, write a structured README.md, and push changes to GitHub effectively.
 
 ## Installation Steps
